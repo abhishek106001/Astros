@@ -1,4 +1,4 @@
-Project on progress..!1
+Project on progress....!
 # **Astros: Secure SDLC Framework**
 
 Astros is a Secure Software Development Life Cycle (SDLC) framework designed to proactively identify and mitigate vulnerabilities during the development process. By leveraging Machine Learning for automated threat modeling, Astros aims to **avoid zero-day exploits** and enhance the overall security posture of software systems.
