@@ -1,4 +1,4 @@
-Server Update.....!
+Server Update........!
 
 # **Astros: Secure SDLC Framework**
 
